@@ -1,0 +1,17 @@
+.app {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 40px;
+}
+
+.counter {
+  margin: 30px;
+}
+
+.btn-container {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
